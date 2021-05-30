@@ -6,3 +6,4 @@ gagagag
 hot fix
 111111111
 ssh test
+ssh test push
